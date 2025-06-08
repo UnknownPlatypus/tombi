@@ -19,7 +19,6 @@ license = "MIT"
 [workspace.dependencies]
 ahash = "0.8.11"
 anyhow = "1.0.98"
-async-trait = "0.1.88"
 bytes = "1.10.1"
 chrono = { version = "0.4.41", features = ["serde"] }
 clap = { version = "4.5.37", features = ["derive", "string"] }
@@ -31,7 +30,6 @@ glob = "0.3.2"
 gloo-net = "0.6.0"
 indexmap = { version = "2.9.0", features = ["serde"] }
 itertools = "0.14.0"
-maplit = { version = "1.0" }
 nu-ansi-term = "0.50.1"
 pretty_assertions = "1.4.1"
 proc-macro2 = "1.0.95"

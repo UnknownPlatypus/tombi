@@ -19,4 +19,3 @@ tombi-parser.workspace = true
 tombi-schema-store.workspace = true
 tombi-text.workspace = true
 tower-lsp.workspace = true
-tracing.workspace = true
